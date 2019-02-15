@@ -1,0 +1,5 @@
+Count the quantity of numbers in the list, use the quantity to create a new list as sorting the list.
+
+Counting sort.
+
+O(n + k)
