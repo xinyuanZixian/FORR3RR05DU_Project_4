@@ -1,0 +1,3 @@
+a. O(n), only one basic for loop.
+
+b. O(log n), always cuting the array half if target isn't found.
